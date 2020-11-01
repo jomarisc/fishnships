@@ -1,2 +1,2 @@
 # fishnships
- A cool game about fish in space. With ships!
+ A cool game about fishing in space. With ships!
